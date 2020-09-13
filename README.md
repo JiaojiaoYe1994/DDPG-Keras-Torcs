@@ -4,9 +4,13 @@
 
 Please read the following blog for details
 
+[video](https://youtu.be/B1JdUByUQEw)  | [torchs img](https://drive.google.com/uc?id=1DaJIMTrMArL7ODlry6aDYG2w3XFr3_UC&export=download)
+
 https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html
 
-![](fast.gif)
+![](./imgs/torcs.gif ){:height="50%" width="50%" align="center"}
+
+
 
 # Installation Dependencies:
 
